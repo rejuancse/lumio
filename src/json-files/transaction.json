@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "icon": "bi-spotify",
+        "name": "Spotify Subscription",
+        "date": "Feb 14, 2026",
+        "time": "12:40 PM",
+        "amount": "-$15.00",
+        "type": "expense"
+    },
+    {
+        "id": 2,
+        "icon": "bi-paypal",
+        "name": "Paypal Transfer",
+        "date": "Feb 13, 2026",
+        "time": "08:15 AM",
+        "amount": "+$1,250.00",
+        "type": "income"
+    },
+    {
+        "id": 3,
+        "icon": "bi-stripe",
+        "name": "Stripe Payout",
+        "date": "Feb 11, 2026",
+        "time": "04:30 PM",
+        "amount": "+$3,400.00",
+        "type": "income"
+    },
+    {
+        "id": 4,
+        "icon": "bi-slack",
+        "name": "Slack Pro Workspace",
+        "date": "Feb 09, 2026",
+        "time": "09:20 AM",
+        "amount": "-$45.00",
+        "type": "expense"
+    }
+]

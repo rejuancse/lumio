@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "label": "Product Launched",
+        "value": 233,
+        "progress": 65,
+        "color": "bg-lime-accent",
+        "opacity": false
+    },
+    {
+        "id": 2,
+        "label": "Ongoing Product",
+        "value": 23,
+        "progress": 20,
+        "color": "bg-lime-accent",
+        "opacity": true
+    },
+    {
+        "id": 3,
+        "label": "Product Sold",
+        "value": 482,
+        "progress": 85,
+        "color": "bg-lime-accent",
+        "opacity": false
+    },
+    {
+        "id": 4,
+        "label": "Product Returned",
+        "value": 8,
+        "progress": 10,
+        "width": 38,
+        "color": "bg-brand-orange",
+        "opacity": false
+    },
+    {
+        "id": 5,
+        "label": "Product In Stock",
+        "value": 1420,
+        "progress": 75,
+        "color": "bg-lime-accent",
+        "opacity": false
+    },
+    {
+        "id": 6,
+        "label": "Pending Shipment",
+        "value": 64,
+        "progress": 45,
+        "color": "bg-lime-accent",
+        "opacity": true
+    }
+]
